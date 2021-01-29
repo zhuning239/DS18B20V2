@@ -15,8 +15,7 @@
         "source/DS1820.cpp",
         "source/DS1820.h",
         "source/LinkedList.cpp",
-        "source/LinkedList.h",
-        "microbit.h"
+        "source/LinkedList.h"
     ],
     "testFiles": [
         "cpptemplatetest.ts"
