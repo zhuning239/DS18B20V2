@@ -9,7 +9,6 @@
     "files": [
         "README.md",
         "shims.d.ts",
-        "pxt.h",
         "enums.d.ts",
         "ds1820-pxt.cpp",
         "source/DS1820.cpp",
